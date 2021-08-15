@@ -3,10 +3,15 @@ This app provides limited functions of ATM
 
 ## Main Features
     1. insert card
+        - cannot save previous account info yet
+        - pin number is limited only numerical digit
     2. select account
+        - saving
+        - credit
     3. withdraw
-    4. deposit
-    5. exit
+    4. balance
+    5. deposit
+    6. exit
 
 
 ## Prerequisite
